@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Dkloving's github stats](https://github-readme-stats.vercel.app/api?username=dkloving&count_private=true&show_icons=true&theme=dracula&hide_rank=false&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkloving&hide=jupyter%20notebook&exclude_repo=IDesignVXGI,NamelessSpacePirate,TrackSpline)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkloving&hide=jupyter%20notebook&exclude_repo=IDesignVXGI,NamelessSpacePirate,TrackSpline,SelfDrivingCarND_Term2)](https://github.com/anuraghazra/github-readme-stats)
