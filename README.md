@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Dkloving's github stats](https://github-readme-stats.vercel.app/api?username=dkloving&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkloving)](https://github.com/anuraghazra/github-readme-stats)
+[![Dkloving's github stats](https://github-readme-stats.vercel.app/api?username=dkloving&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkloving)](https://github.com/anuraghazra/github-readme-stats)
